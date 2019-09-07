@@ -1,0 +1,54 @@
+open account nesar
+deposit 1 2000.0
+open account hakskd
+withdraw 1 300.0
+show active connections
+open account wwww
+deposit 1 300.0
+deposit 1 200.0
+withdraw 1 300.0
+deposit 1 304.0
+deposit 1 320.0
+withdraw 1 300.0
+deposit 1 233200.0
+deposit 1 3020.0
+withdraw 1 300.0
+withdraw 1 300.0
+deposit 3 300.0
+deposit 3 200.0
+deposit 2 304.0
+show mini statement 2
+withdraw 1 300.0
+deposit 2 320.0
+deposit 2 233200.0
+deposit 3 3020.0
+withdraw 1 300.0
+close account 1
+show active connections
+show bank balance
+show account balance 2
+ShoW aCCounT BaLanCe 2
+OpEn account da!!dsss
+show ! all acconutshd
+open account !@3
+open account 
+" "
+close account 100
+shutDOWN
+withdraw 2 -1000.0
+withdraw -2 -10..0.
+deposit 2 -1234.00
+deposit 344 -9828.0
+show account balance -99
+show account balance !
+show mini statement 3223
+show mini statement -8
+show miadb staneeynt
+show active connecons
+show sctibe 23connections
+show bank balance
+show bank BaLanCe
+show all accounts 
+SHOW all ACCOUNts
+show 123 accounts
+shutdown
